@@ -22,6 +22,8 @@ Here's a walkthrough of implemented features:
 [<img src='https://imgur.com/a/rA55tFK.gif'](https://youtu.be/BPpiD7rkYkU)
 title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+https://youtu.be/BPpiD7rkYkU 
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 https://getkap.co and imgur
